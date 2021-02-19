@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="oled_ros" name="sub_oled" type="sub_oled.py" required="true" />
+
+</launch>
